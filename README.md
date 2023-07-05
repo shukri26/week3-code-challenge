@@ -1,6 +1,6 @@
 # WEEK-3-CODE-CHALLENGE
 
-Link to [deployed site]()
+Link to [deployed site](https://github.com/shukri26/week3-code-challenge/)
 
 ## Introduction  
 
